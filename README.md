@@ -103,5 +103,8 @@ FILTER(str(?o)='campana')
 }
 ```
 
+## MELODY Data Stories
 
-BELLS Knowledge Graph is described in two dedicated MELODY data stories: **[Overview of the bells in Liguria](https://projects.dharc.unibo.it/melody/bells/overview_of_the_bells_in_liguria)** and **[Bells on the map](https://projects.dharc.unibo.it/melody/bells/bells_on_the_map)**.
+BELLS Knowledge Graph is described in two dedicated MELODY data stories:
+- [Overview of the bells in Liguria](https://projects.dharc.unibo.it/melody/bells/overview_of_the_bells_in_liguria)
+- [Bells on the map](https://projects.dharc.unibo.it/melody/bells/bells_on_the_map)
