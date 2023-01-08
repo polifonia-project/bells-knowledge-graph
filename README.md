@@ -17,8 +17,7 @@ credits:
 ---
 
 # BELLS Knowledge Graph
-BELLS Knowledge Graph stores information about Italian bells, bell towers and bell ringers.
-[...]
+BELLS Knowledge Graph stores information about Italian bells, bell towers and bell ringers. In particular, in this version, the data collected is related to the bells of the Italian region Ligueria, and comes from catalogue records of the General Catalogue of Italian Cultural Heritage.
 
 BELLS Knowledge Graph can be queried on the [ArCo SPARQL endpoint](https://dati.cultura.gov.it/sparql).
 Moreover, it can be downloaded from this repository in different formats (also, see [here](http://dati.beniculturali.it/resource/datasetCampaneLiguria)).
