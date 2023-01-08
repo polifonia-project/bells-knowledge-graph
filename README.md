@@ -103,6 +103,16 @@ FILTER(str(?o)='campana')
 }
 ```
 
+## Statistics
+The BELLS knowledge graph contains 45,195 triples, and includes 88 distinct bells, related to 12 distinct sets of bells. 
+Therefore, the KG talks about 100 instances of musical instrument.
+Other relevant individuals in the knowledge graph are: 
+- 671 roles played by some agents; 
+- 213 time indexed types locations, linked to 32 distinct addresses; 
+- 115 photographic documentations; 
+- 112 events.
+
+
 ## MELODY Data Stories
 
 BELLS Knowledge Graph is described in two dedicated MELODY data stories:
