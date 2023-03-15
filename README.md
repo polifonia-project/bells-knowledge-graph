@@ -17,6 +17,8 @@ credits:
 ---
 
 # BELLS Knowledge Graph
+[![DOI](https://zenodo.org/badge/583684425.svg)](https://zenodo.org/badge/latestdoi/583684425)
+
 BELLS Knowledge Graph stores information about Italian bells, bell towers and bell ringers. In particular, in this version, the data collected is related to the bells of the Italian region Liguria, and comes from catalogue records of the General Catalogue of Italian Cultural Heritage.
 
 BELLS Knowledge Graph can be queried on the [ArCo SPARQL endpoint](https://dati.cultura.gov.it/sparql).
