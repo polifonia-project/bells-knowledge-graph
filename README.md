@@ -38,14 +38,14 @@ The Bells knowledge graph is integrated in the ArCo knowledge graph.
 - In which context is the building located (urban, periurban...)?
 - Are there bells in the church/bell tower? How many bells are in the church/bell tower?
 - Is there a single bell or a poliorganic instrument (a set of bells) in a church/bell tower?
-- By whom (by which foundry) were they melted?
+- By whom (by which foundry) were they cast?
 - When were they melted?
 - Which is the material of the bell?
 - Which is the weight of the bell?
 - Which are the measures of the bell?
 
 ## Examples of SPARQL queries addressed by the module
-- By whom (by which foundry) were the bell(s) melted? When where they melted?
+- By whom (by which foundry) were the bell(s) cast? When where they cast?
 ```
 PREFIX tiapit: <https://w3id.org/italia/onto/TI/>
 PREFIX core: <https://w3id.org/arco/ontology/core/>
