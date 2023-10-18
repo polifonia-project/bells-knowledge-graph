@@ -8,7 +8,11 @@ release-number: v0.1
 work-package: 
 - WP2
 - WP4
-licence: CC BY
+licence:
+  - CC-BY_v4
+related-components:
+- reuses:  
+  - "Schede catalografiche delle campane della Regione Liguria http://dati.beniculturali.it/resource/datasetCampaneLiguria"
 links:
 - https://github.com/polifonia-project/bells-knowledge-graph
 credits:
