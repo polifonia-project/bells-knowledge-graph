@@ -48,7 +48,8 @@ The Bells knowledge graph is integrated in the ArCo knowledge graph.
 - Which is the weight of the bell?
 - Which are the measures of the bell?
 - Which is the nominal note of a bell?
-- What inscription is on the bell
+- What inscription is on the bell?
+- Which is the Iconclass code connected to the icons on the bell?
 
 ## Examples of SPARQL queries addressed by the module
 - By whom (by which foundry) were the bell(s) cast? When where they cast?
