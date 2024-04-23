@@ -14,7 +14,7 @@ licence:
   - CC-BY_v4
 related-components:
 - reuses:  
-  - "Schede catalografiche delle campane della Regione Liguria http://dati.beniculturali.it/resource/datasetCampaneLiguria"
+  - "Schede catalografiche delle campane della Regione Liguria [http://dati.beniculturali.it/resource/datasetCampaneLiguria](https://dati.beniculturali.it/lodview/resource/datasetCampaneLiguria.html)"
 links:
 - https://github.com/polifonia-project/bells-knowledge-graph
 credits:
@@ -114,13 +114,14 @@ FILTER(str(?o)='campana')
 ```
 
 ## Statistics
-The BELLS knowledge graph contains 45,195 triples, and includes 88 distinct bells, related to 12 distinct sets of bells. 
-Therefore, the KG talks about 100 instances of musical instrument.
+The BELLS knowledge graph contains 249.050 triples, and includes 204 distinct bells, related to 30 distinct sets of bells. 
+Therefore, the KG talks about 200 instances of musical instrument.
 Other relevant individuals in the knowledge graph are: 
-- 671 roles played by some agents; 
-- 213 time indexed types locations, linked to 32 distinct addresses; 
-- 115 photographic documentations; 
-- 112 events.
+- 1280 roles played by some agents; 
+- 507 time indexed types locations, related to 68 addresses; 
+- 295 photographic documentations;
+- 203 audio documentations;
+- 267 events.
 
 
 ## MELODY Data Stories
