@@ -8,6 +8,8 @@ release-number: v0.1
 work-package: 
 - WP2
 - WP4
+pilot:
+- BELLS
 licence:
   - CC-BY_v4
 related-components:
