@@ -126,5 +126,5 @@ Other relevant individuals in the knowledge graph are:
 
 ## MELODY Data Stories
 
-BELLS Knowledge Graph is described in a dedicated MELODY data stories:
+BELLS Knowledge Graph is described in a dedicated MELODY data story:
 - [Overview of the bells in Liguria][(https://projects.dharc.unibo.it/melody/bells/overview_of_bells_in_liguria)]
